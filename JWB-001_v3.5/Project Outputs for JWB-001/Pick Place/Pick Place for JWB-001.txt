@@ -1,0 +1,94 @@
+Designator Footprint               Mid X         Mid Y         Ref X         Ref Y         Pad X         Pad Y TB      Rotation Comment        
+
+J300       USB_Micro_RA_W-TABS          0mil   -341.929mil          0mil       -400mil    -51.181mil   -289.744mil  T        360.00 Part Number    
+A100       2450AT07A0100      418.601mil     37.087mil    418.599mil     67.598mil    398.916mil     75.472mil  T        270.00 Part Number    
+C100       Cap_0201_HD             39mil        154mil         39mil        154mil         39mil    165.024mil  T        270.00 Part Number0.1uFDNP
+C101       Cap_0201_HD            263mil         84mil        263mil         84mil        263mil     95.024mil  T        270.00 Part Number6pFDNP
+C102       Cap_0201_HD            137mil         86mil        137mil         86mil        137mil     74.976mil  T         90.00 Part Number6pFDNP
+C104       Cap_0201_HD            -63mil        151mil        -63mil        151mil        -63mil    162.024mil  T        270.00 Part Number0.1uFDNP
+C105       Cap_0201_HD            126mil    178.976mil        126mil    178.976mil        126mil    167.953mil  T         90.00 Part Number1nFDNP
+C107       Cap_0201_HD            275mil        189mil        275mil        189mil    286.024mil        189mil  T        180.00 Part NumberDNPDNP
+C108       Cap_0201_HD            275mil        165mil        275mil        165mil    286.024mil        165mil  T        180.00 Part NumberDNPDNP
+C109       Cap_0201_HD            131mil        290mil        131mil        290mil        131mil    278.976mil  T         90.00 Part Number47nFDNP
+C110       Cap_0201_HD            178mil        292mil        178mil        292mil        178mil    280.976mil  T         90.00 Part Number2.2nFDNP
+C111       Cap_0201_HD        -39.992mil    317.244mil    -39.992mil    317.244mil    -39.992mil    328.268mil  B        270.00 Part Number0.1uFDNP
+C200       Cap_0402_HD        297.998mil    156.999mil    297.998mil        157mil    297.998mil    175.109mil  B        270.00 Part Number1.0uFDNP
+C201       Cap_0402_HD        342.998mil    156.999mil    342.998mil        157mil    342.998mil    175.109mil  B        270.00 Part Number1.0uFDNP
+C204       Cap_0603               377mil       -158mil        377mil       -158mil        377mil   -184.575mil  B         90.00 Part Number10uFDNP
+C205       Cap_0603              -191mil         85mil       -191mil         85mil   -217.575mil         85mil  B        360.00 Part Number10uFDNP
+C206       Cap_0201_HD           -260mil    361.024mil       -260mil    361.024mil       -260mil    372.047mil  T        270.00 Part Number0.1uFDNP
+C207       Cap_0201_HD           -234mil    370.024mil       -234mil    370.024mil       -234mil    381.047mil  T        270.00 Part Number0.1uFDNP
+C208       Cap_0402_HD           -199mil    379.999mil       -199mil        380mil       -199mil    398.109mil  T        270.00 Part Number4.7uFDNP
+C209       Cap_0402_HD           -162mil    379.999mil       -162mil        380mil       -162mil    398.109mil  T        270.00 Part Number1.0uFDNP
+C210       Cap_0402_HD        -19.999mil        383mil        -20mil        383mil    -38.109mil        383mil  T        360.00 Part Number1.0uFDNP
+C211       Cap_0201_HD           -218mil         96mil       -218mil         96mil   -206.976mil         96mil  T        180.00 Part Number0.1uFDNP
+C213       Cap_0201_HD           -283mil    273.976mil       -283mil    273.976mil       -283mil    262.953mil  T         90.00 Part Number1.0uFDNP
+C214       Cap_0201_HD           -321mil        263mil       -321mil        263mil   -332.024mil        263mil  T        360.00 Part Number0.1uFDNP
+C300       Cap_0402_HD       -126.999mil   -232.002mil       -127mil   -232.002mil   -145.109mil   -232.002mil  B        360.00 Part Number4.7uFDNP
+C301       Cap_0402_HD       -142.999mil       -192mil       -143mil       -192mil   -161.109mil       -192mil  T        360.00 Part Number1.0uFDNP
+C302       Cap_0402_HD       -185.999mil         36mil       -186mil         36mil   -204.109mil         36mil  B        360.00 Part Number4.7uFDNP
+C303       Cap_0201_HD           -259mil    -42.811mil       -259mil    -42.811mil       -259mil    -53.835mil  T         90.00 Part Number22pFDNP
+C304       Cap_0402_HD           -151mil   -170.001mil       -151mil       -170mil       -151mil   -151.891mil  B        270.00 Part Number4.7uFDNP
+C305       Cap_0402_HD       -103.002mil   -170.001mil   -103.002mil       -170mil   -103.002mil   -151.891mil  B        270.00 Part Number1.0uFDNP
+C306       Cap_0201_HD           -255mil       -171mil       -255mil       -171mil   -266.024mil       -171mil  T        360.00 Part Number0.1uFDNP
+C307       Cap_0402_HD         12.001mil       -149mil         12mil       -149mil     -6.109mil       -149mil  T        360.00 Part Number1.0uFDNP
+C308       Cap_0402_HD        287.999mil         16mil        288mil         16mil    306.109mil         16mil  T        180.00 Part Number0.1uFDNP
+C309       Cap_0402_HD        196.001mil         16mil        196mil         16mil    177.891mil         16mil  T        360.00 Part Number4.7uFDNP
+D200       4-PLCC             285.433mil   -285.433mil    285.433mil   -285.433mil        291mil   -249.242mil  B         45.00 Part Number    
+D201       4-PLCC             285.433mil    285.433mil    285.433mil    285.433mil    321.624mil    279.866mil  B        315.00 Part Number    
+D202       4-PLCC            -285.433mil   -285.433mil   -285.433mil   -285.433mil   -321.624mil   -279.866mil  B        135.00 Part Number    
+D203       4-PLCC            -285.433mil    285.433mil   -285.433mil    285.433mil   -279.866mil    321.624mil  B         45.00 Part Number    
+D204       SOD-123F_U            -345mil       -100mil       -345mil       -100mil       -345mil    -42.913mil  B         90.00 Part NumberVoltage Rated
+D300       Diode_0603_HD         -131mil       -148mil       -131mil       -148mil   -101.472mil       -148mil  T        180.00 Part NumberVoltage Rated
+D301       CAP_0402_HD         12.001mil       -191mil         12mil       -191mil     -6.109mil       -191mil  T        360.00 Part NumberVoltage Rated
+D302       CAP_0402_HD             83mil   -130.999mil         83mil       -131mil         83mil   -149.109mil  T         90.00 Part NumberVoltage Rated
+D303       CAP_0402_HD        211.001mil       -221mil        211mil       -221mil    192.891mil       -221mil  T        360.00 Part NumberVoltage Rated
+J100       TP10R_1.27P-4Pin    116.643mil        402mil    116.643mil        402mil     46.166mil    427.651mil  B        340.00 Part NumberDNP 
+L200       IND_1008              -318mil         58mil       -318mil         58mil   -272.724mil         58mil  B        180.00 Part Number4.7uHDNP
+L300       IND_0603              -252mil        -98mil       -252mil        -98mil   -224.441mil        -98mil  T        180.00 Part Number2.2uHDNP
+Q300       SC70-6                -230mil        -91mil       -230mil        -91mil   -255.591mil    -54.583mil  B        270.00 Part Number    
+R100       RES_0201_HD            325mil        177mil        325mil        177mil        325mil    188.811mil  T        270.00 Part Number0DNP
+R101       RES_0201_HD             44mil        281mil         44mil        281mil         44mil    292.811mil  B        270.00 Part Number3.3kDNP
+R102       RES_0201_HD             11mil    281.189mil         11mil    281.189mil         11mil        293mil  B        270.00 Part Number3.3kDNP
+R104       RES_0201_HD        -15.189mil        -69mil    -15.189mil        -69mil     -3.378mil        -69mil  T        180.00 Part Number10kDNP
+R200       RES_0201_HD            -82mil        311mil        -82mil        311mil        -82mil    299.189mil  T         90.00 Part Number10kDNP
+R201       RES_0201_HD       -320.811mil        287mil   -320.811mil        287mil   -332.622mil        287mil  T        360.00 Part Number82kDNP
+R202       RES_0201_HD           -231mil        138mil       -231mil        138mil       -231mil    149.811mil  T        270.00 Part Number30.1kDNP
+R300       RES_0201_HD           -131mil        -68mil       -131mil        -68mil   -119.189mil        -68mil  T        180.00 Part Number4.12kDNP
+R301       RES_0201_HD           -288mil         35mil       -288mil         35mil       -288mil     46.811mil  T        270.00 Part Number10kDNP
+R303       RES_0201_HD           -266mil       -219mil       -266mil       -219mil       -266mil   -207.189mil  T        270.00 Part Number330DNP
+R304       RES_0201_HD           -273mil          0mil       -273mil          0mil   -261.189mil          0mil  T        180.00 Part Number150kDNP
+R305       RES_0201_HD           -284mil    -42.811mil       -284mil    -42.811mil       -284mil        -31mil  T        270.00 Part Number301kDNP
+R306       RES_0201_HD           -128mil        -18mil       -128mil        -18mil       -128mil    -29.811mil  T         90.00 Part Number10kDNP
+R307       RES_0201_HD           -331mil       -120mil       -331mil       -120mil   -342.811mil       -120mil  T        360.00 Part Number2.2kDNP
+R308       RES_0402               -52mil       -168mil        -52mil       -168mil        -52mil   -186.701mil  T         90.00 Part Number0DNP
+R309       RES_0603_HD            221mil       -353mil        221mil       -353mil    191.472mil       -353mil  T        360.00 Part Number27DNP
+R310       RES_0603_HD            220mil       -300mil        220mil       -300mil    190.472mil       -300mil  T        360.00 Part Number27DNP
+R311       RES_0201_HD           -242mil        -16mil       -242mil        -16mil   -253.811mil        -16mil  B        360.00 Part NumberDNPDNP
+R312       RES_0201_HD           -217mil       -167mil       -217mil       -167mil   -205.189mil       -167mil  B        180.00 Part NumberDNPDNP
+RT300      RES_0201_HD           -264mil         35mil       -264mil         35mil       -264mil     23.189mil  T         90.00 Res Thermal    
+SW100      GX05170               62.5mil          0mil          0mil          0mil          0mil          0mil  B          0.00 Part Number    
+SW101      TL3340            -402.953mil         -4mil       -400mil         -4mil   -364.567mil    -52.228mil  T        270.00 TL3340         
+TP1        TP10R                  -13mil         94mil        -13mil         94mil        -13mil         94mil  T          0.00 TP             
+TP2        TP10R                   79mil         95mil         79mil         95mil         79mil         95mil  T          0.00 TP             
+TP_BATT+   TP17R                 -312mil       -255mil       -312mil       -255mil       -312mil       -255mil  T         90.00 TP             
+TP_BATT-   TP17R                 -236mil       -323mil       -236mil       -323mil       -236mil       -323mil  T         90.00 TP             
+TP_GND     TP17R                  -55mil         23mil        -55mil         23mil        -55mil         23mil  T         90.00 TP             
+TP_LRA+    TP17R                 -118mil        229mil       -118mil        229mil       -118mil        229mil  T         90.00 TP             
+TP_LRA-    TP17R                 -199mil        281mil       -199mil        281mil       -199mil        281mil  T         90.00 TP             
+TP_SCLk    TP10R                 -117mil        293mil       -117mil        293mil       -117mil        293mil  B         90.00 TP             
+TP_SCL     TP10R                  -35mil        384mil        -35mil        384mil        -35mil        384mil  B         90.00 TP             
+TP_SDA     TP10R                 -107mil        375mil       -107mil        375mil       -107mil        375mil  B         90.00 TP             
+TP_SDI     TP10R                 -116mil        159mil       -116mil        159mil       -116mil        159mil  B         90.00 TP             
+TP_SDO     TP10R                 -117mil        224mil       -117mil        224mil       -117mil        224mil  B         90.00 TP             
+U100       CFAC_WLCSP              23mil        260mil         23mil        260mil     85.992mil    197.008mil  T        180.00 Part NumberDNP 
+U101       BGA0.4P2x3-5Pin    181.685mil    236.378mil    181.685mil    236.378mil     201.37mil    244.252mil  T        360.00 Part Number    
+U200       BGA0.5P3x3-9Pin   -101.999mil        383mil       -102mil        383mil    -82.314mil    402.685mil  T        270.00 Part Number    
+U201       BGA0.5P6x6-36Pin       -316mil        185mil       -316mil        185mil   -266.787mil    234.213mil  T        270.00 Part NumberDNP 
+U300       BGA0.4P5x5-25Pin       -196mil         -3mil       -196mil         -3mil   -227.496mil     28.496mil  T          0.00 Part NumberDNP 
+U301       SON0.5P-6Pin          -336mil   -170.999mil       -336mil       -171mil   -356.669mil   -151.314mil  T        360.00 Part Number    
+U302       QFN0.65P4x4-16Pin_W-Pad        209mil       -102mil        209mil       -102mil    170.614mil    -173.85mil  T         90.00 Part Number    
+X100       XTAL_ABM11-16      200.366mil     84.409mil    200.366mil     84.409mil    225.956mil    104.094mil  T        180.00 Part NumberDNP 
+Q100       SOT-723                -15mil        155mil        -15mil        155mil      0.748mil    135.315mil  B         90.00 Part Number    
+R105       RES_0201_HD             38mil        153mil         38mil        153mil         38mil    141.189mil  B         90.00 Part Number10kDNP
+

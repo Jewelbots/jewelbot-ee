@@ -1,0 +1,50 @@
+﻿Field=#~Integer~#~50|Field=Comment~String~Comment~292|Field=Cost~String~Cost~292|Field=Description~String~Description~292|Field=Designator~String~Designator~292|Field=Footprint~String~Footprint~292|Field=LibRef~String~LibRef~292|Field=MF~String~MF~292|Field=MFPN~String~MFPN~292|Field=Quantity~Integer~Quantity~292|ReportField=Currency~<none>|ReportField=ProductionQuantity~1|ReportField=ProjectFileName~JWB-001.PrjPcb|ReportField=ProjectFullPath~C:\Users\sdand\Desktop\jewelbots\JWB-001_v3.5\JWB-001.PrjPcb|ReportField=Title~Bill of Materials For Project [JWB-001.PrjPcb] (No PCB Document Selected)|ReportField=TotalQuantity~91|ReportField=ReportTime~11:09:11 AM|ReportField=ReportDate~12/28/2015|ReportField=ReportDateTime~12/28/2015 11:09:11 AM|ReportField=OutputName~Bill of Materials|ReportField=OutputType~BOM_PartType|ReportField=GeneratorName~BOM|ReportField=GeneratorDescription~Bill of Materials|ReportField=VariantName~None|ReportField=Address1~50 Eldridge St.|ReportField=Address2~5th Floor|ReportField=Address3~New York, NY 10002|ReportField=Company~Jewelbots, Inc.|ReportField=Engineer~S. Dandona|ReportField=PCB_partnumber~JWB-001|ReportField=PCB_Rev~3.5|ReportField=PCB_Title~Jewelbots-001|ReportField=PCBA_PartNumber~C|ReportField=Address4~|ReportField=Application_BuildNumber~|ReportField=ApprovedBy~|ReportField=Author~|ReportField=CheckedBy~|ReportField=CompanyName~|ReportField=ConfigurationParameters~|ReportField=ConfiguratorName~|ReportField=CurrentDate~12/28/2015|ReportField=CurrentTime~10:52:38 AM|ReportField=Date~|ReportField=DocumentFullPathAndName~C:\Users\sdand\Desktop\jewelbots\JWB-001_v3.5\Schematic\Top.SchDoc|ReportField=DocumentName~Top.SchDoc|ReportField=DocumentNumber~1|ReportField=DrawnBy~|ReportField=ImagePath~|ReportField=IsUserConfigurable~|ReportField=ModifiedDate~12/19/2015|ReportField=Organization~|ReportField=PageSetup~Record=PageOptions:CenterHorizontal=True:CenterVertical=True:PrintScale=1.00:XCorrection=1.00:YCorrection=1.00:PrintKind=1:BorderSize=5000000:LeftOffset=0:BottomOffset=0:Orientation=2:PaperLength=1000:PaperWidth=1000:Scale=100:PaperSource=257:PrintQuality=-3:MediaType=1:DitherType=10:PrintScaleMode=0:PaperKind=Letter:PaperIndex=1|ReportField=ProjectName~JWB-001.PrjPcb|ReportField=Revision~|ReportField=Rule~|ReportField=SheetNumber~1|ReportField=SheetTotal~3|ReportField=Time~|ReportField=Title~|ReportField=VersionControl_RevNumber~|ReportField=DataSourceFileName~JWB-001.PrjPcb|ReportField=DataSourceFullPath~C:\Users\sdand\Desktop\jewelbots\JWB-001_v3.5\JWB-001.PrjPcb
+1|Part Number|0.3990|ANTENNA SMD EIA 0402 2.4GHZ|A100|2450AT07A0100|2450AT07A0100|Johanson Technology Inc.|2450AT07A0100T|1
+2|Part Number0.1uFDNP|0.00780|CAP CER 0.1UF 6.3V 10% X5R 0201|C100, C104, C111, C206, C207, C211, C214, C306|Cap 0201 HD|Cap 0201 0.1uF 6.3V|Murata Electronics North America|GRM033R60J104KE19D|8
+3|Part Number6pFDNP|0.00459|CAP CER 6PF 25V NP0 0201|C101, C102|Cap 0201 HD|Cap 0201 11pF 25V|Samsung Electro-Mechanics America, Inc.|CL03C060BA3GNNC|2
+4|Part Number1nFDNP|0.00600|CAP CER 1000PF 25V 10% X7R 0201|C105|Cap 0201 HD|Cap 0201 1nF 25V|Murata Electronics North America|GRM033R71E102KA01D|1
+5|Part NumberDNPDNP|0|Capacitor, Ceramic 0201, DNP|C107, C108|Cap 0201 HD|Cap 0201 Generic|N/A|DNP|2
+6|Part Number47nFDNP|0.03000|CAP CER 0.047UF 10V 10% X5R 0201|C109|Cap 0201 HD|Cap 0201 47nF 10V|Taiyo Yuden|LMK063BJ473KP-F|1
+7|Part Number2.2nFDNP|0.00630|CAP CER 2200PF 16V 10% X7R 0201|C110|Cap 0201 HD|Cap 0201 2.2nF 16V|Murata Electronics North America|GRM033R71C222KA88D|1
+8|Part Number1.0uFDNP|0.00990|CAP CER 1UF 10V 10% X5R 0402|C200, C201, C209, C210, C301, C305, C307|Cap 0402 HD|Cap 0402 1.0uF 10V|Murata Electronics North America|GRM155R61A105KE15D|7
+9|Part Number10uFDNP|0.12650|CAP CER 10UF 10V 20% X5R 0603|C204, C205|Cap 0603|Cap 0603 10uF 10V|TDK Corporation|C1608X5R1A106M080AC|2
+10|Part Number4.7uFDNP|0.11730|CAP CER 4.7UF 10V 20% X5R 0402|C208, C300, C302, C304, C309|Cap 0402 HD|Cap 0402 4.7uF 10V|Samsung Electro-Mechanics America, Inc.|CL05A475MP5NRNC|5
+11|Part Number1.0uFDNP|0.27950|CAP CER 1UF 6.3V 20% X5R 0201|C213|Cap 0201 HD|Cap 0201 1.0uF 6.3V|Samsung Electro-Mechanics America, Inc.|CL03A105MQ3CSNC|1
+12|Part Number22pFDNP|0.00570|CAP CER 22PF 50V 5% NP0 0201|C303|Cap 0201 HD|Cap 0201 22pF 50V|Murata Electronics North America|GRM0335C1H220JA01D|1
+13|Part Number0.1uFDNP|0.00300|CAP CER 0.1UF 10V 10% X5R 0402|C308|Cap 0402 HD|Cap 0402 0.1uF 10V|Murata Electronics North America|GRM155R61A104KA01J|1
+14|Part Number|2.68|LED RGB 3-IN-1 SMD 4PLCC|D200, D201, D202, D203|4-PLCC|CLMVB-FKA-CFHEHLCBB7A363|Cree Inc.|CLMVB-FKA-CFHEHLCBB7A363|4
+15|Part NumberVoltage Rated|0.11660|DIODE SCHOTTKY 20V 1A SOD123FL|D204|SOD-123F_U|MBR120VLSFT3G|ON Semiconductor|MBR120VLSFT3G|1
+16|Part NumberVoltage Rated|0.09888|DIODE SCHOTTKY 20V 500MA 0603|D300|Diode 0603 HD|CDBU05x0|Comchip Technology|CDBU0520|1
+17|Part NumberVoltage Rated|0.11000|TVS DIODE 6VWM 12VC 0402|D301, D302, D303|CAP 0402 HD|SESD0402P1BN-0450-090|TE Connectivity Raychem Circuit Protection|SESD0402P1BN-0450-090CT-ND, SESD0402P1BN-0450-090, SESD0402P1BN-0450-090|3
+18|Part NumberDNP|0|Test points for 4-wire Serial Wire Debugger header Pogo Pin harness, DNP|J100|TP10R_1.27P-4Pin|SWD_Pogo_TP|N/A|DNP|1
+19|Part Number|0.18000|CONN USB MICRO B RECPT SMT R/A|J300|USB_Micro_RA_W-TABS|USB_Micro_B_W-Tabs|FCI|10118194-0001LF|1
+20|Part Number4.7uHDNP|0.08498|FIXED IND 4.7UH 1A 250 MOHM SMD|L200|IND 1008|Ind 1008 4.7uH 650mA|Samsung Electro-Mechanics America, Inc.|CIG22B4R7MNE|1
+21|Part Number2.2uHDNP|0.12190|FIXED IND 2.2UH 600MA 170 MOHM|L300|IND 0603|Ind 0603 2.2uH 160mA|TDK Corporation|GLFR1608T2R2M-LR|1
+22|Part Number|0.22000|MOSFET P-CH 20V 0.1A VMT3|Q100|SOT-723|MOSFET-P|Rohm Semiconductor|RZM001P02T2L|1
+23|Part Number|0.12210|MOSFET 2N-CH 20V 1.1A SC-70-6|Q300|SC70-6|Si1902CDL|Vishay Siliconix|SI1902CDL-T1-GE3|1
+24|Part Number0DNP|0.00787|RES SMD 0.0OHM JUMPER 1/20W 0201|R100|RES 0201 HD|Res 0201 0R Jumper|Samsung Electro-Mechanics America, Inc.|RC0603J000CS|1
+25|Part Number3.3kDNP|0.00648|RES SMD 3.3K OHM 5% 1/20W 0201|R101, R102|RES 0201 HD|Res 0201 3.3k 5%|Samsung Electro-Mechanics America, Inc.|RC0603J332CS|2
+26|Part Number10kDNP|0.00828|RES SMD 10K OHM 5% 1/20W 0201|R104, R105, R200, R301, R306|RES 0201 HD|Res 0201 10k 5%|Rohm Semiconductor|MCR006YRTJ103|5
+27|Part Number82kDNP|0.01049|RES SMD 82K OHM 1% 1/20W 0201|R201|RES 0201 HD|Res 0201 Generic|Panasonic Electronic Components|ERJ-1GEF8202C|1
+28|Part Number30.1kDNP|0.01049|RES SMD 30.1K OHM 1% 1/20W 0201|R202|RES 0201 HD|Res 0201 Generic|Panasonic Electronic Components|ERJ-1GEF3012C|1
+29|Part Number4.12kDNP|0.01049|RES SMD 4.12K OHM 1% 1/20W 0201|R300|RES 0201 HD|Res 0201 Generic|Panasonic Electronic Components|ERJ-1GEF4121C|1
+30|Part Number330DNP|0.00834|RES SMD 330 OHM 5% 1/20W 0201|R303|RES 0201 HD|Res 0201 330R 5%|Rohm Semiconductor|MCR006YRTJ331|1
+31|Part Number150kDNP|0.01102|RES SMD 150K OHM 1% 1/20W 0201|R304|RES 0201 HD|Res 0201 150k 1%|Rohm Semiconductor|MCR006YRTF1503|1
+32|Part Number301kDNP|0.01049|RES SMD 301K OHM 1% 1/20W 0201|R305|RES 0201 HD|Res 0201 301k 1%|Panasonic Electronic Components|ERJ-1GEF3013C|1
+33|Part Number2.2kDNP|0.00787|RES SMD 2.2K OHM 5% 1/20W 0201|R307|RES 0201 HD|Res 0201 2.2k 5%|Panasonic Electronic Components|ERJ-1GEJ222C|1
+34|Part Number0DNP|0.00198|RES SMD 0.0OHM JUMPER 1/16W 0402|R308|RES 0402|Res 0402 0R Jumper|Samsung Electro-Mechanics America, Inc.|RC1005J000CS|1
+35|Part Number27DNP|0.00338|RES SMD 27 OHM 5% 1/10W 0603|R309, R310|RES 0603 HD|Res 0603 27R 5%|Rohm Semiconductor|MCR03ERTJ270|2
+36|Part NumberDNPDNP|0|Resistor, 0201, DNP|R311, R312|RES 0201 HD|Res 0201 Generic|N/A|DNP|2
+37|Res Thermal|0.08514|THERMISTOR 10K OHM NTC 0201 SMD|RT300|RES 0201 HD|Therm 0201 10k NTC|Murata Electronics North America|NCP03XH103J05RL|1
+38|Part Number|0|Snap Dome, high activation force, 5.3mm dia|SW100|GX05170|GX05170|Snaptron|GX05170|1
+39|TL3340|0.30030|SWITCH TACTILE SPST-NO 0.05A 12V|SW101|TL3340|TL3340|E-Switch|TL3340AF160QG|1
+40|TP|0|Testpoint, Round 1.0mm Dia|TP1, TP2, TP_SCL, TP_SCLk, TP_SDA, TP_SDI, TP_SDO|TP10R|TP10R|N/A|DNP|7
+41|TP|0|Testpoint, Round 1.7mm Dia|TP_BATT+, TP_BATT-, TP_GND, TP_LRA+, TP_LRA-|TP17R|TP17R|N/A|DNP|5
+42|Part NumberDNP|2.54747|IC SOC 2.4GHZ MULTIPROTO 62WLCS|U100|CFAC_WLCSP|nRF51822-CFAC|Nordic Semiconductor ASA|NRF51822-CFAC-R|1
+43|Part Number|0.32000|IC BALUN FOR NRF51822 WLCSP|U101|BGA0.4P2x3-5Pin|BAL-NRF02D3|STMicroelectronics|BAL-NRF02D3|1
+44|Part Number|1.35000|IC ERM/LRA HAPTIC DRIVER 9DSBGA|U200|BGA0.5P3x3-9Pin|DRV2604L|Texas Instruments|DRV2604LYZFR|1
+45|Part NumberDNP|1.17000|IC LED DRIVER RGLTR DIM 36USMD|U201|BGA0.5P6x6-36Pin|LP55281TL|Texas Instruments|LP55281TL/NOPB|1
+46|Part NumberDNP|2.13750|PMU for IC PMU 2CH CONV/LDO 25DSBGA|U300|BGA0.4P5x5-25Pin|TPS65720|Texas Instruments|TPS65720YFFT|1
+47|Part Number|0.67800|IC LITHIUM BATT PROTECT 6-SON|U301|SON0.5P-6Pin|BQ29700|Texas Instruments|BQ29700DSET|1
+48|Part Number|1.52950|IC USB SERIAL BASIC UART 16QFN|U302|QFN0.65P4x4-16Pin_W-Pad|FT230XQ|FTDI, Future Technology Devices International Ltd|FT230XQ-R|1
+49|Part NumberDNP|0.60000|CRYSTAL 16.0000MHZ 10PF SMD|X100|XTAL_ABM11-16|XTAL_ABM11-16|Abracon LLC|ABM11-16.000MHZ-B7G-T|1

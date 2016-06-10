@@ -1,0 +1,51 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: JWB-001.PcbDoc   12/28/2015  11:04:10 AM
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top to Bottom
+ASCII RoundHoles File : JWB-001-RoundHoles.TXT
+ASCII SlotHoles File : JWB-001-SlotHoles.TXT
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      6mil (0.152mm)                                            Round             11        PTH        0.77inch (19.53mm)
+T2      7mil (0.178mm)                                            Round             34        PTH        3.84inch (97.47mm)
+T3      8mil (0.203mm)                                            Round             5         PTH        1.29inch (32.85mm)
+T4      16mil (0.406mm)                                           Round             1         PTH        0.00inch (0.00mm)
+T5      32mil (0.825mm)                                           Slot              2         PTH        0.62inch (15.78mm)
+T6      35mil (0.9mm)                                             Slot              2         PTH        0.40inch (10.20mm)
+T7      36mil (0.914mm)                                           Round             3         NPTH       1.40inch (35.66mm)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              58
+Layer Pair : Top to Layer 2
+ASCII RoundHoles File : JWB-001-RoundHoles.TX1
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      6mil (0.152mm)                                            Round             43        PTH        1.97inch (50.12mm)
+T2      7mil (0.178mm)                                            Round             11        PTH        1.56inch (39.72mm)
+T3      8mil (0.203mm)                                            Round             7         PTH        1.62inch (41.17mm)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              61
+Layer Pair : Layer 2 to Layer 3
+ASCII RoundHoles File : JWB-001-RoundHoles.TX2
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      6mil (0.152mm)                                            Round             10        PTH        0.42inch (10.71mm)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              10
+Layer Pair : Layer 3 to Bottom
+ASCII RoundHoles File : JWB-001-RoundHoles.TX3
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      6mil (0.152mm)                                            Round             3         PTH        0.04inch (1.05mm)
+T2      7mil (0.178mm)                                            Round             6         PTH        0.79inch (19.97mm)
+T3      8mil (0.203mm)                                            Round             5         PTH        1.94inch (49.34mm)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              14
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              143
+
+Total Processing Time (hh:mm:ss) : 00:00:00
