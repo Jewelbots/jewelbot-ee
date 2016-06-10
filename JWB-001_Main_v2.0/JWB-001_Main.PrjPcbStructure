@@ -1,0 +1,3 @@
+Record=TopLevelDocument|FileName=Top Nordic.SchDoc
+Record=SheetSymbol|Record=SheetSymbol|SourceDocument=Top Nordic.SchDoc|Designator=Interfaces|SchDesignator=Interfaces|FileName=Interfaces.SchDoc|SymbolType=Normal|RawFileName=Interfaces.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|Record=SheetSymbol|SourceDocument=Top Nordic.SchDoc|Designator=Power Supplies|SchDesignator=Power Supplies|FileName=Power Supplies.SchDoc|SymbolType=Normal|RawFileName=Power Supplies.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
