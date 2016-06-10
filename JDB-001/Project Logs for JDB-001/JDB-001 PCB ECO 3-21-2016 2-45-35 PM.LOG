@@ -1,0 +1,4 @@
+Added Component: Designator=R308(RES 0402)
+Added Pin To Net: NetName=NetJ300_1 Pin=R308-1
+Added Pin To Net: NetName=5V Pin=R308-2
+Added Member To Class: ClassName=Power Supplies Member=Component R308 Part Number0DNP

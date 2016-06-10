@@ -1,0 +1,7 @@
+Added Component: Designator=U101(BGA0.4P2x3-5Pin)
+Added Pin To Net: NetName=ANT_OUT Pin=U101-A1
+Added Pin To Net: NetName=NetC110_1 Pin=U101-A2
+Added Pin To Net: NetName=ANT1 Pin=U101-A3
+Added Pin To Net: NetName=GND Pin=U101-B1
+Added Pin To Net: NetName=ANT2 Pin=U101-B3
+Added Member To Class: ClassName=Top Member=Component U101 Part Number
