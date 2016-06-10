@@ -1,0 +1,16 @@
+Removed Pin From Net: NetName=VBATT Pin=TP_BATT+-1
+Removed Pin From Net: NetName=NetC306_2 Pin=TP_BATT--1
+Removed Pin From Net: NetName=GND Pin=TP_GND-1
+Removed Pin From Net: NetName=NetTP_LRA+_1 Pin=TP_LRA+-1
+Removed Pin From Net: NetName=NetTP_LRA-_1 Pin=TP_LRA--1
+Removed Member From Class: ClassName=Power Supplies Member=TP_BATT+
+Removed Member From Class: ClassName=Power Supplies Member=TP_BATT-
+Removed Member From Class: ClassName=Power Supplies Member=TP_GND
+Removed Member From Class: ClassName=Interfaces Member=TP_LRA+
+Removed Member From Class: ClassName=Interfaces Member=TP_LRA-
+Change Net Name : Old Net Name=NetC306_2 New Net Name=VB-
+Change Net Name : Old Net Name=NetTP_LRA+_1 New Net Name=LRA+
+Change Net Name : Old Net Name=NetTP_LRA-_1 New Net Name=LRA-
+Added Room: Name=Interfaces
+Added Room: Name=Power Supplies
+Added Room: Name=Top

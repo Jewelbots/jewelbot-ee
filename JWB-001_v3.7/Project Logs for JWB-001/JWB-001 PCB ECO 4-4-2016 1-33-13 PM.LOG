@@ -1,0 +1,10 @@
+Removed Pin From Net: NetName=SCL Pin=TP_SCL-1
+Removed Pin From Net: NetName=SCLK Pin=TP_SCLk-1
+Removed Pin From Net: NetName=SDA Pin=TP_SDA-1
+Removed Pin From Net: NetName=SDO Pin=TP_SDO-1
+Removed Member From Class: ClassName=Top Member=TP1
+Removed Member From Class: ClassName=Top Member=TP2
+Removed Member From Class: ClassName=Top Member=TP_SCL
+Removed Member From Class: ClassName=Top Member=TP_SCLk
+Removed Member From Class: ClassName=Top Member=TP_SDA
+Removed Member From Class: ClassName=Top Member=TP_SDO

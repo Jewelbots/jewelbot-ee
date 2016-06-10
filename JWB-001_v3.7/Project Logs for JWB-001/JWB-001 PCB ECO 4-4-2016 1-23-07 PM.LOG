@@ -1,0 +1,92 @@
+Change Component Description : Designator=R300 Old Description=RES SMD 4.12K OHM 1% 1/20W 0201 New Description=RES SMD 4.12K OHM 1% 1/20W 0201 
+Change Component Description : Designator=R202 Old Description=RES SMD 30.1K OHM 1% 1/20W 0201 New Description=RES SMD 30.1K OHM 1% 1/20W 0201 
+Change Component Description : Designator=R201 Old Description=RES SMD 82K OHM 1% 1/20W 0201 New Description=RES SMD 82K OHM 1% 1/20W 0201 
+Change Component Description : Designator=R305 Old Description=RES SMD 301K OHM 1% 1/20W 0201 New Description=RES SMD 301K OHM 1% 1/20W 0201 
+Added Member To Class: ClassName=Top Member=Component A100 Part Number
+Added Member To Class: ClassName=Top Member=Component C100 Part Number0.1uFDNP
+Added Member To Class: ClassName=Top Member=Component C101 Part Number6pFDNP
+Added Member To Class: ClassName=Top Member=Component C102 Part Number6pFDNP
+Added Member To Class: ClassName=Top Member=Component C104 Part Number0.1uFDNP
+Added Member To Class: ClassName=Top Member=Component C105 Part Number1nFDNP
+Added Member To Class: ClassName=Top Member=Component C107 Part NumberDNPDNP
+Added Member To Class: ClassName=Top Member=Component C108 Part NumberDNPDNP
+Added Member To Class: ClassName=Top Member=Component C109 Part Number47nFDNP
+Added Member To Class: ClassName=Top Member=Component C110 Part Number2.2nFDNP
+Added Member To Class: ClassName=Top Member=Component C111 Part Number0.1uFDNP
+Added Member To Class: ClassName=Interfaces Member=Component C200 Part Number1.0uFDNP
+Added Member To Class: ClassName=Interfaces Member=Component C201 Part Number1.0uFDNP
+Added Member To Class: ClassName=Interfaces Member=Component C204 Part Number10uFDNP
+Added Member To Class: ClassName=Interfaces Member=Component C205 Part Number10uFDNP
+Added Member To Class: ClassName=Interfaces Member=Component C206 Part Number0.1uFDNP
+Added Member To Class: ClassName=Interfaces Member=Component C207 Part Number0.1uFDNP
+Added Member To Class: ClassName=Interfaces Member=Component C208 Part Number4.7uFDNP
+Added Member To Class: ClassName=Interfaces Member=Component C209 Part Number1.0uFDNP
+Added Member To Class: ClassName=Interfaces Member=Component C210 Part Number1.0uFDNP
+Added Member To Class: ClassName=Interfaces Member=Component C211 Part Number0.1uFDNP
+Added Member To Class: ClassName=Interfaces Member=Component C213 Part Number1.0uFDNP
+Added Member To Class: ClassName=Interfaces Member=Component C214 Part Number0.1uFDNP
+Added Member To Class: ClassName=Power Supplies Member=Component C300 Part Number4.7uFDNP
+Added Member To Class: ClassName=Power Supplies Member=Component C301 Part Number1.0uFDNP
+Added Member To Class: ClassName=Power Supplies Member=Component C302 Part Number4.7uFDNP
+Added Member To Class: ClassName=Power Supplies Member=Component C303 Part Number22pFDNP
+Added Member To Class: ClassName=Power Supplies Member=Component C304 Part Number4.7uFDNP
+Added Member To Class: ClassName=Power Supplies Member=Component C305 Part Number1.0uFDNP
+Added Member To Class: ClassName=Power Supplies Member=Component C306 Part Number0.1uFDNP
+Added Member To Class: ClassName=Power Supplies Member=Component C307 Part Number1.0uFDNP
+Added Member To Class: ClassName=Power Supplies Member=Component C308 Part Number0.1uFDNP
+Added Member To Class: ClassName=Power Supplies Member=Component C309 Part Number4.7uFDNP
+Added Member To Class: ClassName=Interfaces Member=Component D200 Part Number
+Added Member To Class: ClassName=Interfaces Member=Component D201 Part Number
+Added Member To Class: ClassName=Interfaces Member=Component D202 Part Number
+Added Member To Class: ClassName=Interfaces Member=Component D203 Part Number
+Added Member To Class: ClassName=Interfaces Member=Component D204 Part NumberVoltage Rated
+Added Member To Class: ClassName=Power Supplies Member=Component D300 Part NumberVoltage Rated
+Added Member To Class: ClassName=Power Supplies Member=Component D301 Part NumberVoltage Rated
+Added Member To Class: ClassName=Power Supplies Member=Component D302 Part NumberVoltage Rated
+Added Member To Class: ClassName=Power Supplies Member=Component D303 Part NumberVoltage Rated
+Added Member To Class: ClassName=Top Member=Component J100 Part NumberDNP
+Added Member To Class: ClassName=Interfaces Member=Component J200 BM02B-SURS-TF_1
+Added Member To Class: ClassName=Power Supplies Member=Component J300 Part Number
+Added Member To Class: ClassName=Power Supplies Member=Component J301 BM02B-SURS-TF_1
+Added Member To Class: ClassName=Interfaces Member=Component L200 Part Number4.7uHDNP
+Added Member To Class: ClassName=Power Supplies Member=Component L300 Part Number2.2uHDNP
+Added Member To Class: ClassName=Top Member=Component Q100 Part Number
+Added Member To Class: ClassName=Power Supplies Member=Component Q300 Part Number
+Added Member To Class: ClassName=Top Member=Component R100 Part Number0DNP
+Added Member To Class: ClassName=Top Member=Component R101 Part Number3.3kDNP
+Added Member To Class: ClassName=Top Member=Component R102 Part Number3.3kDNP
+Added Member To Class: ClassName=Top Member=Component R104 Part Number10kDNP
+Added Member To Class: ClassName=Top Member=Component R105 Part Number10kDNP
+Added Member To Class: ClassName=Interfaces Member=Component R200 Part Number10kDNP
+Added Member To Class: ClassName=Interfaces Member=Component R201 Part Number82kDNP
+Added Member To Class: ClassName=Interfaces Member=Component R202 Part Number30.1kDNP
+Added Member To Class: ClassName=Power Supplies Member=Component R300 Part Number4.12kDNP
+Added Member To Class: ClassName=Power Supplies Member=Component R301 Part Number10kDNP
+Added Member To Class: ClassName=Power Supplies Member=Component R303 Part Number330DNP
+Added Member To Class: ClassName=Power Supplies Member=Component R304 Part Number150kDNP
+Added Member To Class: ClassName=Power Supplies Member=Component R305 Part Number301kDNP
+Added Member To Class: ClassName=Power Supplies Member=Component R306 Part Number10kDNP
+Added Member To Class: ClassName=Power Supplies Member=Component R307 Part Number2.2kDNP
+Added Member To Class: ClassName=Power Supplies Member=Component R308 Part Number0DNP
+Added Member To Class: ClassName=Power Supplies Member=Component R309 Part Number27DNP
+Added Member To Class: ClassName=Power Supplies Member=Component R310 Part Number27DNP
+Added Member To Class: ClassName=Power Supplies Member=Component R311 Part NumberDNPDNP
+Added Member To Class: ClassName=Power Supplies Member=Component R312 Part NumberDNPDNP
+Added Member To Class: ClassName=Power Supplies Member=Component RT300 Res Thermal
+Added Member To Class: ClassName=Top Member=Component SW100 Part Number
+Added Member To Class: ClassName=Top Member=Component SW101 TL3340
+Added Member To Class: ClassName=Top Member=Component TP1 TP
+Added Member To Class: ClassName=Top Member=Component TP2 TP
+Added Member To Class: ClassName=Top Member=Component TP_SCLk TP
+Added Member To Class: ClassName=Top Member=Component TP_SCL TP
+Added Member To Class: ClassName=Top Member=Component TP_SDA TP
+Added Member To Class: ClassName=Top Member=Component TP_SDI TP
+Added Member To Class: ClassName=Top Member=Component TP_SDO TP
+Added Member To Class: ClassName=Top Member=Component U100 Part NumberDNP
+Added Member To Class: ClassName=Top Member=Component U101 Part Number
+Added Member To Class: ClassName=Interfaces Member=Component U200 Part Number
+Added Member To Class: ClassName=Interfaces Member=Component U201 Part NumberDNP
+Added Member To Class: ClassName=Power Supplies Member=Component U300 Part NumberDNP
+Added Member To Class: ClassName=Power Supplies Member=Component U301 Part Number
+Added Member To Class: ClassName=Power Supplies Member=Component U302 Part Number
+Added Member To Class: ClassName=Top Member=Component X100 Part NumberDNP

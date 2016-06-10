@@ -1,0 +1,8 @@
+Added Component: Designator=J200(BM02B-SURS-TF)
+Added Component: Designator=J301(BM02B-SURS-TF)
+Added Pin To Net: NetName=LRA+ Pin=J200-1
+Added Pin To Net: NetName=LRA- Pin=J200-2
+Added Pin To Net: NetName=VBATT Pin=J301-1
+Added Pin To Net: NetName=VB- Pin=J301-2
+Added Member To Class: ClassName=Interfaces Member=Component J200 BM02B-SURS-TF_1
+Added Member To Class: ClassName=Power Supplies Member=Component J301 BM02B-SURS-TF_1
