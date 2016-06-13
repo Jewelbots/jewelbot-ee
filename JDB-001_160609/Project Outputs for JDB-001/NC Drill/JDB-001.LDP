@@ -1,0 +1,4 @@
+Layer Pairs Export File for PCB: C:\Users\sdand\Desktop\jewelbots\JDB-001\Layout\JDB-001.PcbDoc
+LayersSetName=Top_Bot_Thru_Holes|DrillFile=jdb-001-roundholes.txt|DrillLayers=gtl,g2,g3,gbl
+LayersSetName=Top_Bot_Slot_Holes|DrillFile=jdb-001-slotholes.txt|DrillLayers=gtl,g2,g3,gbl
+LayersSetName=Top_2_Blind_Vias|DrillFile=jdb-001-roundholes.tx1|DrillLayers=gtl,g2
