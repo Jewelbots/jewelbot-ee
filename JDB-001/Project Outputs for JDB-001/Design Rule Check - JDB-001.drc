@@ -1,7 +1,7 @@
 Protel Design System Design Rule Check
 PCB File : C:\Users\sdand\Desktop\jewelbots\JDB-001\Layout\JDB-001.PcbDoc
-Date     : 6/7/2016
-Time     : 2:58:22 PM
+Date     : 6/13/2016
+Time     : 9:16:37 AM
 
 Processing Rule : Silk primitive without silk layer
 Rule Violations :0
@@ -49,4 +49,4 @@ Rule Violations :0
 
 
 Violations Detected : 2
-Time Elapsed        : 00:00:03
+Time Elapsed        : 00:00:04

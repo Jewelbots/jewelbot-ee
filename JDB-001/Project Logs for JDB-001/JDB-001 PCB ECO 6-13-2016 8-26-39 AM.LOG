@@ -1,0 +1,14 @@
+Removed Pin From Net: NetName=ANT_OUT Pin=U101-A1
+Removed Pin From Net: NetName=NetC110_1 Pin=U101-A2
+Removed Pin From Net: NetName=ANT2 Pin=U101-A3
+Removed Pin From Net: NetName=GND Pin=U101-B1
+Removed Pin From Net: NetName=ANT1 Pin=U101-B3
+Change Component DesignItemId : Designator=U101 Old DesignItemId=BAL-NRF02D3 New DesignItemId=nRF51822 Balun RF filter
+Change Component Footprint: Designator=U101 Old Footprint=BGA0.4P2x3-5Pin New Footprint=2450BM14E0003
+Change Component Comment : Designator=U101 Old Comment=Part Number New Comment=nRF51822 Balun RF filter
+Added Pin To Net: NetName=ANT_OUT Pin=U101-1
+Added Pin To Net: NetName=GND Pin=U101-2
+Added Pin To Net: NetName=ANT2 Pin=U101-3
+Added Pin To Net: NetName=ANT1 Pin=U101-4
+Added Pin To Net: NetName=NetC110_1 Pin=U101-5
+Added Pin To Net: NetName=GND Pin=U101-6

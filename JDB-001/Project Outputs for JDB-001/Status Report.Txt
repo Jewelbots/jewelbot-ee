@@ -1,44 +1,14 @@
 Project Outputs Generation Report
 ---------------------------------
-Start Output Generation At 10:14:09 AM On 6/8/2016
+Start Output Generation At 9:18:41 AM On 6/13/2016
 
-Output: ODB++ Files
-Type  : ODB
+Output: Export STEP
+Type  : ExportSTEP
 From  : Variant [[No Variations]] of PCB Document [JDB-001.PcbDoc]
-   Generated File[matrix]
-   Generated File[profile]
-   Generated File[stephdr]
-   Generated File[features]
-   Generated File[features]
-   Generated File[features]
-   Generated File[features]
-   Generated File[features]
-   Generated File[features]
-   Generated File[features]
-   Generated File[features]
-   Generated File[features]
-   Generated File[features]
-   Generated File[features]
-   Generated File[tools]
-   Generated File[features]
-   Generated File[tools]
-   Generated File[features]
-   Generated File[features]
-   Generated File[features]
-   Generated File[features]
-   Generated File[features]
-   Generated File[features]
-   Generated File[features]
-   Generated File[features]
-   Generated File[features]
-   Generated File[features]
-   Generated File[components]
-   Generated File[data]
-   Generated File[netlist]
-   Generated File[JDB-001.REP]
+   Generated File[JDB-001.step]
 
 
-Files Generated   : 31
+Files Generated   : 1
 Documents Printed : 0
 
-Finished Output Generation At 10:14:15 AM On 6/8/2016
+Finished Output Generation At 9:18:45 AM On 6/13/2016
