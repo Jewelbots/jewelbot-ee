@@ -1,5 +1,5 @@
 ----------------------------------------------------------------------------------------------------------------------------------
-NCDrill File Report For: JDB-001.PcbDoc   6/13/2016  9:18:17 AM
+NCDrill File Report For: JDB-001.PcbDoc   6/13/2016  11:35:26 AM
 ----------------------------------------------------------------------------------------------------------------------------------
 
 Layer Pair : Top to Bottom
@@ -8,7 +8,7 @@ ASCII SlotHoles File : JDB-001-SlotHoles.TXT
 
 Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
 ----------------------------------------------------------------------------------------------------------------------------------
-T1      6mil (0.152mm)                                            Round             33        PTH        4.74inch (120.40mm)
+T1      6mil (0.152mm)                                            Round             33        PTH        4.68inch (118.92mm)
 T2      7mil (0.178mm)                                            Round             14        PTH        2.05inch (52.12mm)
 T3      8mil (0.203mm)                                            Round             238       PTH        28.65inch (727.69mm)
 T4      13mil (0.33mm)                                            Round             16        PTH        0.71inch (18.00mm)
@@ -21,7 +21,7 @@ ASCII RoundHoles File : JDB-001-RoundHoles.TX1
 
 Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
 ----------------------------------------------------------------------------------------------------------------------------------
-T1      6mil (0.152mm)                                            Round             41        PTH        5.10inch (129.55mm)
+T1      6mil (0.152mm)                                            Round             41        PTH        5.08inch (129.05mm)
 T2      7mil (0.178mm)                                            Round             2         PTH        0.07inch (1.86mm)
 T3      8mil (0.203mm)                                            Round             8         PTH        3.80inch (96.55mm)
 ----------------------------------------------------------------------------------------------------------------------------------

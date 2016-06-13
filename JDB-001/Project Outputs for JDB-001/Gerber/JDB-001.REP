@@ -82,10 +82,10 @@ Generating : Layer 2
 
 
 Used DCodes :
+    D54
     D55
     D57
     D58
-    D60
     D63
     D64
     D65
@@ -104,14 +104,14 @@ Generating : Layer 3
 
 
 Used DCodes :
-    D55
+    D54
     D57
-    D60
+    D58
+    D63
     D64
     D65
     D66
     D67
-    D68
 *************************************************************
 
 *************************************************************
@@ -124,9 +124,9 @@ Generating : Bottom
 
 
 Used DCodes :
-    D55
+    D54
     D57
-    D60
+    D58
     D61
     D62
     D63
@@ -147,9 +147,9 @@ Generating : Top Overlay
 Used DCodes :
     D54
     D55
-    D57
     D58
     D59
+    D60
     D69
     D70
     D71
@@ -184,12 +184,9 @@ Used DCodes :
     D21
     D22
     D23
-    D24
-    D25
     D27
     D28
     D29
-    D30
     D31
     D32
     D33
@@ -197,11 +194,14 @@ Used DCodes :
     D35
     D36
     D37
-    D39
+    D38
     D40
     D41
     D42
     D43
+    D44
+    D45
+    D46
     D47
     D48
     D49
@@ -235,7 +235,7 @@ Generating : Top Solder
 
 
 Used DCodes :
-    D85
+    D76
     D87
     D88
     D89
@@ -332,7 +332,7 @@ Generating : Keep-Out Layer
 
 
 Used DCodes :
-    D59
+    D60
 *************************************************************
 
 *************************************************************
@@ -343,6 +343,6 @@ Generating : Board Outline
 
 
 Used DCodes :
-    D59
+    D60
 *************************************************************
 

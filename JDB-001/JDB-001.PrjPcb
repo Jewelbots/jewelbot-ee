@@ -30,7 +30,7 @@ DItemRevisionGUID=
 ReportSuppressedErrorsInMessages=0
 FSMCodingStyle=eFMSDropDownList_OneProcess
 FSMEncodingStyle=eFMSDropDownList_OneHot
-OutputPath=
+OutputPath=Project Outputs for JDB-001
 LogFolderPath=
 ManagedProjectGUID=
 
@@ -162,95 +162,219 @@ DocumentPath=Project Outputs for JDB-001\BOM\Bill of Materials-JDB-001.xlsx
 DItemRevisionGUID=
 
 [GeneratedDocument2]
-DocumentPath=Project Outputs for JDB-001\Design Rule Check - JDB-001.html
+DocumentPath=Project Outputs for JDB-001\ODB\odb\steps\pcb\layers\comp_+_top\components
 DItemRevisionGUID=
 
 [GeneratedDocument3]
-DocumentPath=Project Outputs for JDB-001\NC Drill\JDB-001-RoundHoles.TX1
+DocumentPath=Project Outputs for JDB-001\ODB\odb\steps\pcb\eda\data
 DItemRevisionGUID=
 
 [GeneratedDocument4]
-DocumentPath=Project Outputs for JDB-001\NC Drill\JDB-001-RoundHoles.TXT
+DocumentPath=Project Outputs for JDB-001\Design Rule Check - JDB-001.html
 DItemRevisionGUID=
 
 [GeneratedDocument5]
-DocumentPath=Project Outputs for JDB-001\NC Drill\JDB-001-SlotHoles.TXT
+DocumentPath=Project Outputs for JDB-001\ODB\odb\steps\pcb\layers\bottom\features
 DItemRevisionGUID=
 
 [GeneratedDocument6]
-DocumentPath=Project Outputs for JDB-001\NC Drill\JDB-001.DRR
+DocumentPath=Project Outputs for JDB-001\ODB\odb\steps\pcb\layers\bottomoverlay\features
 DItemRevisionGUID=
 
 [GeneratedDocument7]
-DocumentPath=Project Outputs for JDB-001\Gerber\JDB-001.EXTREP
+DocumentPath=Project Outputs for JDB-001\ODB\odb\steps\pcb\layers\bottompaste\features
 DItemRevisionGUID=
 
 [GeneratedDocument8]
-DocumentPath=Project Outputs for JDB-001\Gerber\JDB-001.G1
+DocumentPath=Project Outputs for JDB-001\ODB\odb\steps\pcb\layers\bottomsolder\features
 DItemRevisionGUID=
 
 [GeneratedDocument9]
-DocumentPath=Project Outputs for JDB-001\Gerber\JDB-001.G2
+DocumentPath=Project Outputs for JDB-001\ODB\odb\steps\pcb\layers\comp_+_top\features
 DItemRevisionGUID=
 
 [GeneratedDocument10]
-DocumentPath=Project Outputs for JDB-001\Gerber\JDB-001.GBL
+DocumentPath=Project Outputs for JDB-001\ODB\odb\steps\pcb\layers\drill1\features
 DItemRevisionGUID=
 
 [GeneratedDocument11]
-DocumentPath=Project Outputs for JDB-001\Gerber\JDB-001.GBO
+DocumentPath=Project Outputs for JDB-001\ODB\odb\steps\pcb\layers\drill\features
 DItemRevisionGUID=
 
 [GeneratedDocument12]
-DocumentPath=Project Outputs for JDB-001\Gerber\JDB-001.GBP
+DocumentPath=Project Outputs for JDB-001\ODB\odb\steps\pcb\layers\keepout\features
 DItemRevisionGUID=
 
 [GeneratedDocument13]
-DocumentPath=Project Outputs for JDB-001\Gerber\JDB-001.GBS
+DocumentPath=Project Outputs for JDB-001\ODB\odb\steps\pcb\layers\mechanical1\features
 DItemRevisionGUID=
 
 [GeneratedDocument14]
-DocumentPath=Project Outputs for JDB-001\Gerber\JDB-001.GKO
+DocumentPath=Project Outputs for JDB-001\ODB\odb\steps\pcb\layers\mechanical3\features
 DItemRevisionGUID=
 
 [GeneratedDocument15]
-DocumentPath=Project Outputs for JDB-001\Gerber\JDB-001.GM3
+DocumentPath=Project Outputs for JDB-001\ODB\odb\steps\pcb\layers\mechanical11\features
 DItemRevisionGUID=
 
 [GeneratedDocument16]
-DocumentPath=Project Outputs for JDB-001\Gerber\JDB-001.GTL
+DocumentPath=Project Outputs for JDB-001\ODB\odb\steps\pcb\layers\mechanical13\features
 DItemRevisionGUID=
 
 [GeneratedDocument17]
-DocumentPath=Project Outputs for JDB-001\Gerber\JDB-001.GTO
+DocumentPath=Project Outputs for JDB-001\ODB\odb\steps\pcb\layers\mechanical15\features
 DItemRevisionGUID=
 
 [GeneratedDocument18]
-DocumentPath=Project Outputs for JDB-001\Gerber\JDB-001.GTP
+DocumentPath=Project Outputs for JDB-001\ODB\odb\steps\pcb\layers\mechanical16\features
 DItemRevisionGUID=
 
 [GeneratedDocument19]
-DocumentPath=Project Outputs for JDB-001\Gerber\JDB-001.GTS
+DocumentPath=Project Outputs for JDB-001\ODB\odb\steps\pcb\layers\mechanical17\features
 DItemRevisionGUID=
 
 [GeneratedDocument20]
-DocumentPath=Project Outputs for JDB-001\NC Drill\JDB-001.LDP
+DocumentPath=Project Outputs for JDB-001\ODB\odb\steps\pcb\layers\mechanical18\features
 DItemRevisionGUID=
 
 [GeneratedDocument21]
-DocumentPath=Project Outputs for JDB-001\Gerber\JDB-001.REP
+DocumentPath=Project Outputs for JDB-001\ODB\odb\steps\pcb\layers\mid1\features
 DItemRevisionGUID=
 
 [GeneratedDocument22]
-DocumentPath=Project Outputs for JDB-001\Gerber\JDB-001.RUL
+DocumentPath=Project Outputs for JDB-001\ODB\odb\steps\pcb\layers\mid2\features
 DItemRevisionGUID=
 
 [GeneratedDocument23]
-DocumentPath=Project Outputs for JDB-001\ExportSTEP\JDB-001.step
+DocumentPath=Project Outputs for JDB-001\ODB\odb\steps\pcb\layers\top\features
 DItemRevisionGUID=
 
 [GeneratedDocument24]
+DocumentPath=Project Outputs for JDB-001\ODB\odb\steps\pcb\layers\topoverlay\features
+DItemRevisionGUID=
+
+[GeneratedDocument25]
+DocumentPath=Project Outputs for JDB-001\ODB\odb\steps\pcb\layers\toppaste\features
+DItemRevisionGUID=
+
+[GeneratedDocument26]
+DocumentPath=Project Outputs for JDB-001\ODB\odb\steps\pcb\layers\topsolder\features
+DItemRevisionGUID=
+
+[GeneratedDocument27]
+DocumentPath=Project Outputs for JDB-001\NC Drill\JDB-001-RoundHoles.TX1
+DItemRevisionGUID=
+
+[GeneratedDocument28]
+DocumentPath=Project Outputs for JDB-001\NC Drill\JDB-001-RoundHoles.TXT
+DItemRevisionGUID=
+
+[GeneratedDocument29]
+DocumentPath=Project Outputs for JDB-001\NC Drill\JDB-001-SlotHoles.TXT
+DItemRevisionGUID=
+
+[GeneratedDocument30]
+DocumentPath=Project Outputs for JDB-001\NC Drill\JDB-001.DRR
+DItemRevisionGUID=
+
+[GeneratedDocument31]
+DocumentPath=Project Outputs for JDB-001\Gerber\JDB-001.EXTREP
+DItemRevisionGUID=
+
+[GeneratedDocument32]
+DocumentPath=Project Outputs for JDB-001\Gerber\JDB-001.G1
+DItemRevisionGUID=
+
+[GeneratedDocument33]
+DocumentPath=Project Outputs for JDB-001\Gerber\JDB-001.G2
+DItemRevisionGUID=
+
+[GeneratedDocument34]
+DocumentPath=Project Outputs for JDB-001\Gerber\JDB-001.GBL
+DItemRevisionGUID=
+
+[GeneratedDocument35]
+DocumentPath=Project Outputs for JDB-001\Gerber\JDB-001.GBO
+DItemRevisionGUID=
+
+[GeneratedDocument36]
+DocumentPath=Project Outputs for JDB-001\Gerber\JDB-001.GBP
+DItemRevisionGUID=
+
+[GeneratedDocument37]
+DocumentPath=Project Outputs for JDB-001\Gerber\JDB-001.GBS
+DItemRevisionGUID=
+
+[GeneratedDocument38]
+DocumentPath=Project Outputs for JDB-001\Gerber\JDB-001.GKO
+DItemRevisionGUID=
+
+[GeneratedDocument39]
+DocumentPath=Project Outputs for JDB-001\Gerber\JDB-001.GM3
+DItemRevisionGUID=
+
+[GeneratedDocument40]
+DocumentPath=Project Outputs for JDB-001\Gerber\JDB-001.GTL
+DItemRevisionGUID=
+
+[GeneratedDocument41]
+DocumentPath=Project Outputs for JDB-001\Gerber\JDB-001.GTO
+DItemRevisionGUID=
+
+[GeneratedDocument42]
+DocumentPath=Project Outputs for JDB-001\Gerber\JDB-001.GTP
+DItemRevisionGUID=
+
+[GeneratedDocument43]
+DocumentPath=Project Outputs for JDB-001\Gerber\JDB-001.GTS
+DItemRevisionGUID=
+
+[GeneratedDocument44]
+DocumentPath=Project Outputs for JDB-001\NC Drill\JDB-001.LDP
+DItemRevisionGUID=
+
+[GeneratedDocument45]
+DocumentPath=Project Outputs for JDB-001\Gerber\JDB-001.REP
+DItemRevisionGUID=
+
+[GeneratedDocument46]
+DocumentPath=Project Outputs for JDB-001\ODB\JDB-001.REP
+DItemRevisionGUID=
+
+[GeneratedDocument47]
+DocumentPath=Project Outputs for JDB-001\Gerber\JDB-001.RUL
+DItemRevisionGUID=
+
+[GeneratedDocument48]
+DocumentPath=Project Outputs for JDB-001\ExportSTEP\JDB-001.step
+DItemRevisionGUID=
+
+[GeneratedDocument49]
+DocumentPath=Project Outputs for JDB-001\ODB\odb\matrix\matrix
+DItemRevisionGUID=
+
+[GeneratedDocument50]
+DocumentPath=Project Outputs for JDB-001\ODB\odb\steps\pcb\netlists\cadnet\netlist
+DItemRevisionGUID=
+
+[GeneratedDocument51]
 DocumentPath=Project Outputs for JDB-001\Pick Place\Pick Place for JDB-001.txt
+DItemRevisionGUID=
+
+[GeneratedDocument52]
+DocumentPath=Project Outputs for JDB-001\ODB\odb\steps\pcb\profile
+DItemRevisionGUID=
+
+[GeneratedDocument53]
+DocumentPath=Project Outputs for JDB-001\ODB\odb\steps\pcb\stephdr
+DItemRevisionGUID=
+
+[GeneratedDocument54]
+DocumentPath=Project Outputs for JDB-001\ODB\odb\steps\pcb\layers\drill1\tools
+DItemRevisionGUID=
+
+[GeneratedDocument55]
+DocumentPath=Project Outputs for JDB-001\ODB\odb\steps\pcb\layers\drill\tools
 DItemRevisionGUID=
 
 [Parameter1]
@@ -300,7 +424,7 @@ GenerateBOM=1
 OutputJobsCount=0
 
 [Generic_EDE]
-OutputDir=
+OutputDir=Project Outputs for JDB-001
 
 [OutputGroup1]
 Name=Netlist Outputs
