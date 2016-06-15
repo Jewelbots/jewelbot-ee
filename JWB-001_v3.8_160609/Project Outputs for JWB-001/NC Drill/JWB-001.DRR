@@ -1,0 +1,50 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: JWB-001.PcbDoc   5/19/2016  4:48:21 PM
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top to Bottom
+ASCII RoundHoles File : JWB-001-RoundHoles.TXT
+ASCII SlotHoles File : JWB-001-SlotHoles.TXT
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T2      6mil (0.152mm)                                            Round             1         PTH        0.00inch (0.00mm)
+T3      7mil (0.178mm)                                            Round             13        PTH        1.42inch (35.94mm)
+T4      8mil (0.2mm)                                              Round             42        PTH        2.93inch (74.36mm)
+T5      8mil (0.203mm)                                            Round             31        PTH        4.05inch (102.84mm)
+T6      16mil (0.406mm)                                           Round             1         PTH        0.00inch (0.00mm)
+T7      32mil (0.825mm)                                           Slot              2         PTH        0.62inch (15.78mm)
+T8      35mil (0.9mm)                                             Slot              2         PTH        0.40inch (10.20mm)
+T9      36mil (0.914mm)                                           Round             3         NPTH       1.40inch (35.66mm)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              95
+Layer Pair : Top to Layer 2
+ASCII RoundHoles File : JWB-001-RoundHoles.TX1
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      4mil (0.1mm)                                              Round             45        PTH        2.64inch (67.05mm)
+T3      7mil (0.178mm)                                            Round             1         PTH        0.00inch (0.00mm)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              46
+Layer Pair : Layer 2 to Layer 3
+ASCII RoundHoles File : JWB-001-RoundHoles.TX2
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T4      8mil (0.2mm)                                              Round             4         PTH        0.26inch (6.59mm)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              4
+Layer Pair : Layer 3 to Bottom
+ASCII RoundHoles File : JWB-001-RoundHoles.TX3
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      4mil (0.1mm)                                              Round             13        PTH        1.97inch (50.16mm)
+T4      8mil (0.2mm)                                              Round             1         PTH        0.00inch (0.00mm)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              14
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              159
+
+Total Processing Time (hh:mm:ss) : 00:00:00
