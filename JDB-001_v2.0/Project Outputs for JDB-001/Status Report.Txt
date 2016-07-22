@@ -1,14 +1,44 @@
 Project Outputs Generation Report
 ---------------------------------
-Start Output Generation At 9:31:39 AM On 7/22/2016
+Start Output Generation At 9:55:45 AM On 7/22/2016
 
-Output: Bill of Materials
-Type  : BOM
-From  : Variant [[No Variations]] of Project [JDB-001.PrjPcb]
-   Generated File[Bill of Materials-JDB-001.xlsx]
+Output: ODB++ Files
+Type  : ODB
+From  : Variant [[No Variations]] of PCB Document [JDB-001.PcbDoc]
+   Generated File[matrix]
+   Generated File[profile]
+   Generated File[stephdr]
+   Generated File[features]
+   Generated File[features]
+   Generated File[features]
+   Generated File[features]
+   Generated File[features]
+   Generated File[features]
+   Generated File[features]
+   Generated File[features]
+   Generated File[features]
+   Generated File[features]
+   Generated File[features]
+   Generated File[tools]
+   Generated File[features]
+   Generated File[tools]
+   Generated File[features]
+   Generated File[features]
+   Generated File[features]
+   Generated File[features]
+   Generated File[features]
+   Generated File[features]
+   Generated File[features]
+   Generated File[features]
+   Generated File[features]
+   Generated File[features]
+   Generated File[components]
+   Generated File[data]
+   Generated File[netlist]
+   Generated File[JDB-001.REP]
 
 
-Files Generated   : 1
+Files Generated   : 31
 Documents Printed : 0
 
-Finished Output Generation At 9:31:54 AM On 7/22/2016
+Finished Output Generation At 9:55:52 AM On 7/22/2016

@@ -1,7 +1,7 @@
 Protel Design System Design Rule Check
 PCB File : C:\Users\sdand\Desktop\jewelbots\JDB-001_v2.0\Layout\JDB-001.PcbDoc
 Date     : 7/22/2016
-Time     : 9:17:39 AM
+Time     : 9:53:07 AM
 
 Processing Rule : Clearance Constraint (Gap=5mil) (InNet('ANT_OUT')),(All)
 Rule Violations :0
@@ -52,4 +52,4 @@ Rule Violations :0
 
 
 Violations Detected : 2
-Time Elapsed        : 00:00:05
+Time Elapsed        : 00:00:06
