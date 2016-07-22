@@ -1,7 +1,6 @@
 # jewelbot-ee
 
-Contains altium files for Jewelbots charm and dev board
+Altium files for Jewelbots charm and dev board
 
-Updated with v3.5 to v3.8 for JWB-001
-
-Updated with JWB-001 v2.0 and charging board
+Latest charm schematic(JWB-001_v3.9)
+Latest dev board(JDB-001_v2.0)
