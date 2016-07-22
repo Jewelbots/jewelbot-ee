@@ -1,0 +1,150 @@
+*************************************************************
+FileName = JWB-001.PcbDoc
+ODB++ directory structure
+*************************************************************
+Generated File : C:\Users\sdand\Desktop\jewelbots\JWB-001_v3.8\Project Outputs for JWB-001\ODB\odb\matrix\matrix
+
+Generated File : C:\Users\sdand\Desktop\jewelbots\JWB-001_v3.8\Project Outputs for JWB-001\ODB\odb\steps\pcb\profile
+
+Generated File : C:\Users\sdand\Desktop\jewelbots\JWB-001_v3.8\Project Outputs for JWB-001\ODB\odb\steps\pcb\stephdr
+
+Generated File : C:\Users\sdand\Desktop\jewelbots\JWB-001_v3.8\Project Outputs for JWB-001\ODB\odb\steps\pcb\attrlist
+
+Generated File : C:\Users\sdand\Desktop\jewelbots\JWB-001_v3.8\Project Outputs for JWB-001\ODB\odb\steps\pcb\layers\topoverlay\features
+
+Generated File : C:\Users\sdand\Desktop\jewelbots\JWB-001_v3.8\Project Outputs for JWB-001\ODB\odb\steps\pcb\layers\topoverlay\attrlist
+
+Generated File : C:\Users\sdand\Desktop\jewelbots\JWB-001_v3.8\Project Outputs for JWB-001\ODB\odb\steps\pcb\layers\toppaste\features
+
+Generated File : C:\Users\sdand\Desktop\jewelbots\JWB-001_v3.8\Project Outputs for JWB-001\ODB\odb\steps\pcb\layers\toppaste\attrlist
+
+Generated File : C:\Users\sdand\Desktop\jewelbots\JWB-001_v3.8\Project Outputs for JWB-001\ODB\odb\steps\pcb\layers\topsolder\features
+
+Generated File : C:\Users\sdand\Desktop\jewelbots\JWB-001_v3.8\Project Outputs for JWB-001\ODB\odb\steps\pcb\layers\topsolder\attrlist
+
+Generated File : C:\Users\sdand\Desktop\jewelbots\JWB-001_v3.8\Project Outputs for JWB-001\ODB\odb\steps\pcb\layers\top\features
+
+Generated File : C:\Users\sdand\Desktop\jewelbots\JWB-001_v3.8\Project Outputs for JWB-001\ODB\odb\steps\pcb\layers\top\attrlist
+
+Generated File : C:\Users\sdand\Desktop\jewelbots\JWB-001_v3.8\Project Outputs for JWB-001\ODB\odb\steps\pcb\layers\mid1\features
+
+Generated File : C:\Users\sdand\Desktop\jewelbots\JWB-001_v3.8\Project Outputs for JWB-001\ODB\odb\steps\pcb\layers\mid1\attrlist
+
+Generated File : C:\Users\sdand\Desktop\jewelbots\JWB-001_v3.8\Project Outputs for JWB-001\ODB\odb\steps\pcb\layers\mid2\features
+
+Generated File : C:\Users\sdand\Desktop\jewelbots\JWB-001_v3.8\Project Outputs for JWB-001\ODB\odb\steps\pcb\layers\mid2\attrlist
+
+Generated File : C:\Users\sdand\Desktop\jewelbots\JWB-001_v3.8\Project Outputs for JWB-001\ODB\odb\steps\pcb\layers\bottom\features
+
+Generated File : C:\Users\sdand\Desktop\jewelbots\JWB-001_v3.8\Project Outputs for JWB-001\ODB\odb\steps\pcb\layers\bottom\attrlist
+
+Generated File : C:\Users\sdand\Desktop\jewelbots\JWB-001_v3.8\Project Outputs for JWB-001\ODB\odb\steps\pcb\layers\bottomsolder\features
+
+Generated File : C:\Users\sdand\Desktop\jewelbots\JWB-001_v3.8\Project Outputs for JWB-001\ODB\odb\steps\pcb\layers\bottomsolder\attrlist
+
+Generated File : C:\Users\sdand\Desktop\jewelbots\JWB-001_v3.8\Project Outputs for JWB-001\ODB\odb\steps\pcb\layers\bottompaste\features
+
+Generated File : C:\Users\sdand\Desktop\jewelbots\JWB-001_v3.8\Project Outputs for JWB-001\ODB\odb\steps\pcb\layers\bottompaste\attrlist
+
+Generated File : C:\Users\sdand\Desktop\jewelbots\JWB-001_v3.8\Project Outputs for JWB-001\ODB\odb\steps\pcb\layers\bottomoverlay\features
+
+Generated File : C:\Users\sdand\Desktop\jewelbots\JWB-001_v3.8\Project Outputs for JWB-001\ODB\odb\steps\pcb\layers\bottomoverlay\attrlist
+
+Generated File : C:\Users\sdand\Desktop\jewelbots\JWB-001_v3.8\Project Outputs for JWB-001\ODB\odb\steps\pcb\layers\drill\features
+
+Generated File : C:\Users\sdand\Desktop\jewelbots\JWB-001_v3.8\Project Outputs for JWB-001\ODB\odb\steps\pcb\layers\drill\attrlist
+
+Generated File : C:\Users\sdand\Desktop\jewelbots\JWB-001_v3.8\Project Outputs for JWB-001\ODB\odb\steps\pcb\layers\drill\tools
+
+Generated File : C:\Users\sdand\Desktop\jewelbots\JWB-001_v3.8\Project Outputs for JWB-001\ODB\odb\steps\pcb\layers\drill1\features
+
+Generated File : C:\Users\sdand\Desktop\jewelbots\JWB-001_v3.8\Project Outputs for JWB-001\ODB\odb\steps\pcb\layers\drill1\attrlist
+
+Generated File : C:\Users\sdand\Desktop\jewelbots\JWB-001_v3.8\Project Outputs for JWB-001\ODB\odb\steps\pcb\layers\drill1\tools
+
+Generated File : C:\Users\sdand\Desktop\jewelbots\JWB-001_v3.8\Project Outputs for JWB-001\ODB\odb\steps\pcb\layers\drill2\features
+
+Generated File : C:\Users\sdand\Desktop\jewelbots\JWB-001_v3.8\Project Outputs for JWB-001\ODB\odb\steps\pcb\layers\drill2\attrlist
+
+Generated File : C:\Users\sdand\Desktop\jewelbots\JWB-001_v3.8\Project Outputs for JWB-001\ODB\odb\steps\pcb\layers\drill2\tools
+
+Generated File : C:\Users\sdand\Desktop\jewelbots\JWB-001_v3.8\Project Outputs for JWB-001\ODB\odb\steps\pcb\layers\drill3\features
+
+Generated File : C:\Users\sdand\Desktop\jewelbots\JWB-001_v3.8\Project Outputs for JWB-001\ODB\odb\steps\pcb\layers\drill3\attrlist
+
+Generated File : C:\Users\sdand\Desktop\jewelbots\JWB-001_v3.8\Project Outputs for JWB-001\ODB\odb\steps\pcb\layers\drill3\tools
+
+Generated File : C:\Users\sdand\Desktop\jewelbots\JWB-001_v3.8\Project Outputs for JWB-001\ODB\odb\steps\pcb\layers\keepout\features
+
+Generated File : C:\Users\sdand\Desktop\jewelbots\JWB-001_v3.8\Project Outputs for JWB-001\ODB\odb\steps\pcb\layers\keepout\attrlist
+
+Generated File : C:\Users\sdand\Desktop\jewelbots\JWB-001_v3.8\Project Outputs for JWB-001\ODB\odb\steps\pcb\layers\mechanical1\features
+
+Generated File : C:\Users\sdand\Desktop\jewelbots\JWB-001_v3.8\Project Outputs for JWB-001\ODB\odb\steps\pcb\layers\mechanical1\attrlist
+
+Generated File : C:\Users\sdand\Desktop\jewelbots\JWB-001_v3.8\Project Outputs for JWB-001\ODB\odb\steps\pcb\layers\mechanical3\features
+
+Generated File : C:\Users\sdand\Desktop\jewelbots\JWB-001_v3.8\Project Outputs for JWB-001\ODB\odb\steps\pcb\layers\mechanical3\attrlist
+
+Generated File : C:\Users\sdand\Desktop\jewelbots\JWB-001_v3.8\Project Outputs for JWB-001\ODB\odb\steps\pcb\layers\mechanical11\features
+
+Generated File : C:\Users\sdand\Desktop\jewelbots\JWB-001_v3.8\Project Outputs for JWB-001\ODB\odb\steps\pcb\layers\mechanical11\attrlist
+
+Generated File : C:\Users\sdand\Desktop\jewelbots\JWB-001_v3.8\Project Outputs for JWB-001\ODB\odb\steps\pcb\layers\mechanical13\features
+
+Generated File : C:\Users\sdand\Desktop\jewelbots\JWB-001_v3.8\Project Outputs for JWB-001\ODB\odb\steps\pcb\layers\mechanical13\attrlist
+
+Generated File : C:\Users\sdand\Desktop\jewelbots\JWB-001_v3.8\Project Outputs for JWB-001\ODB\odb\steps\pcb\layers\mechanical15\features
+
+Generated File : C:\Users\sdand\Desktop\jewelbots\JWB-001_v3.8\Project Outputs for JWB-001\ODB\odb\steps\pcb\layers\mechanical15\attrlist
+
+Generated File : C:\Users\sdand\Desktop\jewelbots\JWB-001_v3.8\Project Outputs for JWB-001\ODB\odb\steps\pcb\layers\mechanical16\features
+
+Generated File : C:\Users\sdand\Desktop\jewelbots\JWB-001_v3.8\Project Outputs for JWB-001\ODB\odb\steps\pcb\layers\mechanical16\attrlist
+
+Generated File : C:\Users\sdand\Desktop\jewelbots\JWB-001_v3.8\Project Outputs for JWB-001\ODB\odb\steps\pcb\layers\mechanical17\features
+
+Generated File : C:\Users\sdand\Desktop\jewelbots\JWB-001_v3.8\Project Outputs for JWB-001\ODB\odb\steps\pcb\layers\mechanical17\attrlist
+
+Generated File : C:\Users\sdand\Desktop\jewelbots\JWB-001_v3.8\Project Outputs for JWB-001\ODB\odb\steps\pcb\layers\mechanical18\features
+
+Generated File : C:\Users\sdand\Desktop\jewelbots\JWB-001_v3.8\Project Outputs for JWB-001\ODB\odb\steps\pcb\layers\mechanical18\attrlist
+
+Generated File : C:\Users\sdand\Desktop\jewelbots\JWB-001_v3.8\Project Outputs for JWB-001\ODB\odb\steps\pcb\layers\comp_+_top\features
+
+Generated File : C:\Users\sdand\Desktop\jewelbots\JWB-001_v3.8\Project Outputs for JWB-001\ODB\odb\steps\pcb\layers\comp_+_top\components
+
+Generated File : C:\Users\sdand\Desktop\jewelbots\JWB-001_v3.8\Project Outputs for JWB-001\ODB\odb\steps\pcb\layers\comp_+_bot\features
+
+Generated File : C:\Users\sdand\Desktop\jewelbots\JWB-001_v3.8\Project Outputs for JWB-001\ODB\odb\steps\pcb\layers\comp_+_bot\components
+
+Generated File : C:\Users\sdand\Desktop\jewelbots\JWB-001_v3.8\Project Outputs for JWB-001\ODB\odb\steps\pcb\eda\data
+
+Generated File : C:\Users\sdand\Desktop\jewelbots\JWB-001_v3.8\Project Outputs for JWB-001\ODB\odb\symbols\rect19.685x43.3071_235\features
+
+Generated File : C:\Users\sdand\Desktop\jewelbots\JWB-001_v3.8\Project Outputs for JWB-001\ODB\odb\symbols\rect47.2441x66.9291_235\features
+
+Generated File : C:\Users\sdand\Desktop\jewelbots\JWB-001_v3.8\Project Outputs for JWB-001\ODB\odb\symbols\rect19.685x43.3071_350\features
+
+Generated File : C:\Users\sdand\Desktop\jewelbots\JWB-001_v3.8\Project Outputs for JWB-001\ODB\odb\symbols\rect47.2441x66.9291_350\features
+
+Generated File : C:\Users\sdand\Desktop\jewelbots\JWB-001_v3.8\Project Outputs for JWB-001\ODB\odb\symbols\rect39.3701x31.4961_45\features
+
+Generated File : C:\Users\sdand\Desktop\jewelbots\JWB-001_v3.8\Project Outputs for JWB-001\ODB\odb\symbols\rect39.3701x31.4961_225\features
+
+Generated File : C:\Users\sdand\Desktop\jewelbots\JWB-001_v3.8\Project Outputs for JWB-001\ODB\odb\symbols\rect39.3701x31.4961_315\features
+
+Generated File : C:\Users\sdand\Desktop\jewelbots\JWB-001_v3.8\Project Outputs for JWB-001\ODB\odb\symbols\rect23.685x47.3071_235\features
+
+Generated File : C:\Users\sdand\Desktop\jewelbots\JWB-001_v3.8\Project Outputs for JWB-001\ODB\odb\symbols\rect51.2441x70.9291_235\features
+
+Generated File : C:\Users\sdand\Desktop\jewelbots\JWB-001_v3.8\Project Outputs for JWB-001\ODB\odb\symbols\rect23.685x47.3071_350\features
+
+Generated File : C:\Users\sdand\Desktop\jewelbots\JWB-001_v3.8\Project Outputs for JWB-001\ODB\odb\symbols\rect51.2441x70.9291_350\features
+
+Generated File : C:\Users\sdand\Desktop\jewelbots\JWB-001_v3.8\Project Outputs for JWB-001\ODB\odb\symbols\rect43.3701x35.4961_45\features
+
+Generated File : C:\Users\sdand\Desktop\jewelbots\JWB-001_v3.8\Project Outputs for JWB-001\ODB\odb\symbols\rect43.3701x35.4961_225\features
+
+Generated File : C:\Users\sdand\Desktop\jewelbots\JWB-001_v3.8\Project Outputs for JWB-001\ODB\odb\symbols\rect43.3701x35.4961_315\features
+

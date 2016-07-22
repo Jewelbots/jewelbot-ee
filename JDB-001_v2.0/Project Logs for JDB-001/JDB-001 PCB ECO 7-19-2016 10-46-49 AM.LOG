@@ -1,0 +1,6 @@
+Added Component: Designator=P104(4-CONN_MOLEX)
+Added Pin To Net: NetName=1V8 Pin=P104-1
+Added Pin To Net: NetName=\RESET Pin=P104-2
+Added Pin To Net: NetName=NetP104_3 Pin=P104-3
+Added Pin To Net: NetName=GND Pin=P104-4
+Added Member To Class: ClassName=Top Member=Component P104 Value

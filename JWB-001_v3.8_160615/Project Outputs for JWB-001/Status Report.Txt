@@ -1,0 +1,14 @@
+Project Outputs Generation Report
+---------------------------------
+Start Output Generation At 8:37:09 AM On 6/15/2016
+
+Output: Export STEP
+Type  : ExportSTEP
+From  : Variant [[No Variations]] of PCB Document [JWB-001.PcbDoc]
+   Generated File[JWB-001.step]
+
+
+Files Generated   : 1
+Documents Printed : 0
+
+Finished Output Generation At 8:37:13 AM On 6/15/2016

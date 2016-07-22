@@ -1,0 +1,84 @@
+Removed Pin From Net: NetName=VSYS Pin=C302-1
+Removed Pin From Net: NetName=1V8 Pin=C303-1
+Removed Pin From Net: NetName=1V8 Pin=C304-1
+Removed Pin From Net: NetName=1V8 Pin=C305-1
+Removed Pin From Net: NetName=1V8 Pin=L300-2
+Removed Pin From Net: NetName=1V8 Pin=R305-2
+Removed Pin From Net: NetName=GND Pin=U300-A2
+Removed Pin From Net: NetName=SCL Pin=U300-A5
+Removed Pin From Net: NetName=GND Pin=U300-B1
+Removed Pin From Net: NetName=GND Pin=U300-B2
+Removed Pin From Net: NetName=SDA Pin=U300-B5
+Removed Pin From Net: NetName=GND Pin=U300-C1
+Removed Pin From Net: NetName=NetRT300_1 Pin=U300-C2
+Removed Pin From Net: NetName=PMIC_INT Pin=U300-C3
+Removed Pin From Net: NetName=\PB_IN Pin=U300-C4
+Removed Pin From Net: NetName=NetC303_2 Pin=U300-D1
+Removed Pin From Net: NetName=VBATT Pin=U300-D3
+Removed Pin From Net: NetName=VSYS Pin=U300-D4
+Removed Pin From Net: NetName=NetR300_2 Pin=U300-D5
+Removed Pin From Net: NetName=GND Pin=U300-E1
+Removed Pin From Net: NetName=NetL300_1 Pin=U300-E2
+Removed Pin From Net: NetName=VBATT Pin=U300-E3
+Removed Pin From Net: NetName=VSYS Pin=U300-E4
+Removed Pin From Net: NetName=NetC301_1 Pin=U300-E5
+Removed Pin From Net: NetName=3V3 Pin=U302-9
+Change Component DesignItemId : Designator=U200 Old DesignItemId=DRV2605 New DesignItemId=DRV2604L
+Change Component DesignItemId : Designator=U300 Old DesignItemId=TPS65720 New DesignItemId=TPS65721
+Change Component Footprint: Designator=U300 Old Footprint=BGA0.4P5x5-25Pin New Footprint=32-QFN (4x4)
+Change Component Comment : Designator=R305 Old Comment=Part Number301kDNP New Comment=Part Number680kDNP
+Change Component Comment : Designator=U300 Old Comment=Part NumberDNP New Comment=TPS65721
+Change Component Description : Designator=R305 Old Description=RES SMD 301K OHM 1% 1/20W 0201 New Description=RES SMD 680K OHM 1% 1/20W 0201
+Added Component: Designator=C310(Cap 0201 HD)
+Added Component: Designator=R302(RES 0201 HD)
+Added Component: Designator=R313(RES 0201 HD)
+Added Component: Designator=R314(RES 0201 HD)
+Added Pin To Net: NetName=VSYS Pin=C303-1
+Added Pin To Net: NetName=VSYS Pin=C304-1
+Added Pin To Net: NetName=VSYS Pin=C305-1
+Added Pin To Net: NetName=1V8 Pin=C310-1
+Added Pin To Net: NetName=VSYS Pin=L300-2
+Added Pin To Net: NetName=GND Pin=R302-1
+Added Pin To Net: NetName=VSYS Pin=R305-2
+Added Pin To Net: NetName=1V8 Pin=R313-2
+Added Pin To Net: NetName=GND Pin=R314-1
+Added Pin To Net: NetName=SCL Pin=U300-8
+Added Pin To Net: NetName=SDA Pin=U300-12
+Added Pin To Net: NetName=PMIC_INT Pin=U300-13
+Added Pin To Net: NetName=\PB_IN Pin=U300-15
+Added Pin To Net: NetName=NetR300_2 Pin=U300-16
+Added Pin To Net: NetName=NetC301_1 Pin=U300-17
+Added Pin To Net: NetName=NetC301_1 Pin=U300-18
+Added Pin To Net: NetName=VBATT Pin=U300-21
+Added Pin To Net: NetName=VBATT Pin=U300-22
+Added Pin To Net: NetName=NetL300_1 Pin=U300-23
+Added Pin To Net: NetName=GND Pin=U300-24
+Added Pin To Net: NetName=NetC303_2 Pin=U300-26
+Added Pin To Net: NetName=NetRT300_1 Pin=U300-27
+Added Pin To Net: NetName=GND Pin=U300-28
+Added Pin To Net: NetName=GND Pin=U300-29
+Added Pin To Net: NetName=VSYS Pin=U300-30
+Added Pin To Net: NetName=1V8 Pin=U300-31
+Added Pin To Net: NetName=GND Pin=U300-33
+Added Pin To Net: NetName=VSYS Pin=U302-9
+Change Net Name : Old Net Name=3V3 New Net Name=VU
+Change Net Name : Old Net Name=VSYS New Net Name=3V3
+Added Pin To Net: NetName=HOLD_DCDC Pin=R301-2
+Added Pin To Net: NetName=HOLD_DCDC Pin=U300-25
+Added Net: Name=HOLD_DCDC
+Added Pin To Net: NetName=HOLD_LDO Pin=R302-2
+Added Pin To Net: NetName=HOLD_LDO Pin=U300-2
+Added Net: Name=HOLD_LDO
+Added Pin To Net: NetName=NetC310_2 Pin=C310-2
+Added Pin To Net: NetName=NetC310_2 Pin=R313-1
+Added Pin To Net: NetName=NetC310_2 Pin=R314-2
+Added Pin To Net: NetName=NetC310_2 Pin=U300-1
+Added Net: Name=NetC310_2
+Added Pin To Net: NetName=VSYS Pin=C302-1
+Added Pin To Net: NetName=VSYS Pin=U300-19
+Added Pin To Net: NetName=VSYS Pin=U300-20
+Added Net: Name=VSYS
+Added Member To Class: ClassName=Power Supplies Member=Component C310 Part Number22pFDNP
+Added Member To Class: ClassName=Power Supplies Member=Component R302 Part Number10kDNP
+Added Member To Class: ClassName=Power Supplies Member=Component R313 Part Number300kDNP
+Added Member To Class: ClassName=Power Supplies Member=Component R314 Part Number240kDNP

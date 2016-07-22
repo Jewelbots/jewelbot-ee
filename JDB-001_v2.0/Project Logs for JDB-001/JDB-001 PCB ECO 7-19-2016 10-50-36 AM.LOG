@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=5V Pin=C309-1
+Removed Pin From Net: NetName=5V Pin=U302-10
+Added Pin To Net: NetName=V5V Pin=C309-1
+Added Pin To Net: NetName=V5V Pin=U302-10

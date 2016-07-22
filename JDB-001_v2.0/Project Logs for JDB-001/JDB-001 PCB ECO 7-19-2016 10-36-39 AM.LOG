@@ -1,0 +1,47 @@
+Removed Pin From Net: NetName=3V3 Pin=C305-1
+Removed Pin From Net: NetName=5V Pin=D300-A
+Removed Pin From Net: NetName=5V Pin=D301-1
+Removed Pin From Net: NetName=VBATT Pin=J301-1
+Removed Pin From Net: NetName=GND Pin=R301-1
+Removed Pin From Net: NetName=GND Pin=R302-1
+Removed Pin From Net: NetName=VBATT Pin=R303-2
+Removed Member From Class: ClassName=Power Supplies Member=R301
+Removed Member From Class: ClassName=Power Supplies Member=R302
+Change Component DesignItemId : Designator=J200 Old DesignItemId=BM02B-SURS-TF New DesignItemId=MOLEX_RA_CONN
+Change Component DesignItemId : Designator=J301 Old DesignItemId=BM02B-SURS-TF New DesignItemId=MOLEX_RA_CONN
+Change Component DesignItemId : Designator=C305 Old DesignItemId=Cap 0402 1.0uF 10V New DesignItemId=Cap 0402 4.7uF 10V
+Change Component Footprint: Designator=J200 Old Footprint=BM02B-SURS-TF New Footprint=MOLEX_RA_CONN
+Change Component Footprint: Designator=J301 Old Footprint=BM02B-SURS-TF New Footprint=MOLEX_RA_CONN
+Change Component Comment : Designator=J200 Old Comment=BM02B-SURS-TF New Comment=MOLEX_RA_CONN
+Change Component Comment : Designator=J301 Old Comment=BM02B-SURS-TF New Comment=MOLEX_RA_CONN
+Change Component Comment : Designator=C305 Old Comment=Part Number1.0uFDNP New Comment=Part Number4.7uFDNP
+Change Component Comment : Designator=U300 Old Comment=TPS65721 New Comment=TPS65721RSNR
+Change Component Description : Designator=C305 Old Description=CAP CER 1UF 10V 10% X5R 0402 New Description=CAP CER 4.7UF 10V 20% X5R 0402
+Added Component: Designator=SW300(JS202011SCQN)
+Added Component: Designator=SW301(JS202011SCQN)
+Added Pin To Net: NetName=1V8 Pin=C305-1
+Added Pin To Net: NetName=5V Pin=SW300-3
+Added Pin To Net: NetName=5V Pin=SW300-6
+Added Pin To Net: NetName=VBATT Pin=SW301-2
+Added Pin To Net: NetName=VBATT Pin=SW301-5
+Added Pin To Net: NetName=VSYS Pin=U300-2
+Added Pin To Net: NetName=GND Pin=U300-11
+Added Pin To Net: NetName=VSYS Pin=U300-25
+Added Pin To Net: NetName=NetSW300_1 Pin=SW300-1
+Added Pin To Net: NetName=NetSW300_1 Pin=SW300-4
+Added Net: Name=NetSW300_1
+Added Pin To Net: NetName=NetSW301_1 Pin=SW301-1
+Added Pin To Net: NetName=NetSW301_1 Pin=SW301-4
+Added Net: Name=NetSW301_1
+Added Pin To Net: NetName=V5V Pin=D300-A
+Added Pin To Net: NetName=V5V Pin=D301-1
+Added Pin To Net: NetName=V5V Pin=SW300-2
+Added Pin To Net: NetName=V5V Pin=SW300-5
+Added Net: Name=V5V
+Added Pin To Net: NetName=VBBB Pin=J301-1
+Added Pin To Net: NetName=VBBB Pin=R303-2
+Added Pin To Net: NetName=VBBB Pin=SW301-3
+Added Pin To Net: NetName=VBBB Pin=SW301-6
+Added Net: Name=VBBB
+Added Member To Class: ClassName=Power Supplies Member=Component SW300 Value
+Added Member To Class: ClassName=Power Supplies Member=Component SW301 Value
