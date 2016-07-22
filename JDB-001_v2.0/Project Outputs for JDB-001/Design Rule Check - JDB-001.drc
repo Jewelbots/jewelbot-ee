@@ -1,55 +1,55 @@
 Protel Design System Design Rule Check
 PCB File : C:\Users\sdand\Desktop\jewelbots\JDB-001_v2.0\Layout\JDB-001.PcbDoc
 Date     : 7/22/2016
-Time     : 9:53:07 AM
+Time     : 10:24:47 AM
 
-Processing Rule : Clearance Constraint (Gap=5mil) (InNet('ANT_OUT')),(All)
-Rule Violations :0
-
-Processing Rule : Silk primitive without silk layer
-Rule Violations :0
-
-Processing Rule : Clearance Constraint (Gap=4mil) (InComponent('U200') OR InComponent('U201')),(All)
-Rule Violations :0
-
-Processing Rule : Clearance Constraint (Gap=4mil) (All),(All)
-Rule Violations :0
-
-Processing Rule : Width Constraint (Min=4mil) (Max=100mil) (Preferred=6mil) (All)
-Rule Violations :0
-
-Processing Rule : Power Plane Connect Rule(Relief Connect )(Expansion=20mil) (Conductor Width=10mil) (Air Gap=10mil) (Entries=4) (All)
-Rule Violations :0
-
-Processing Rule : Short-Circuit Constraint (Allowed=No) (All),(All)
-   Violation between Short-Circuit Constraint: Between Pad J300-6(2738mil,1001mil) on Multi-Layer And Pad J300-6(2738mil,1024.622mil) on Top Location : [X = 5461mil][Y = 3008.115mil]
-   Violation between Short-Circuit Constraint: Between Pad J300-6(2737.98mil,1284.465mil) on Multi-Layer And Pad J300-6(2738mil,1260.842mil) on Top Location : [X = 5461mil][Y = 3267.349mil]
-Rule Violations :2
-
-Processing Rule : Un-Routed Net Constraint ( (All) )
-Rule Violations :0
-
-Processing Rule : Hole Size Constraint (Min=6mil) (Max=100mil) (All)
-Rule Violations :0
-
-Processing Rule : Height Constraint (Min=0mil) (Max=1000mil) (Prefered=100mil) (All)
-Rule Violations :0
-
-Processing Rule : Hole To Hole Clearance (Gap=6mil) (All),(All)
-Rule Violations :0
-
-Processing Rule : Minimum Solder Mask Sliver (Gap=1mil) (All),(All)
-Rule Violations :0
-
-Processing Rule : Silk To Solder Mask (Clearance=0mil) (IsPad),(All)
+Processing Rule : Net Antennae (Tolerance=0mil) (All)
 Rule Violations :0
 
 Processing Rule : Silk to Silk (Clearance=1mil) (All),(All)
 Rule Violations :0
 
-Processing Rule : Net Antennae (Tolerance=0mil) (All)
+Processing Rule : Silk To Solder Mask (Clearance=0mil) (IsPad),(All)
+Rule Violations :0
+
+Processing Rule : Minimum Solder Mask Sliver (Gap=1mil) (All),(All)
+Rule Violations :0
+
+Processing Rule : Hole To Hole Clearance (Gap=6mil) (All),(All)
+Rule Violations :0
+
+Processing Rule : Height Constraint (Min=0mil) (Max=1000mil) (Prefered=100mil) (All)
+Rule Violations :0
+
+Processing Rule : Hole Size Constraint (Min=6mil) (Max=100mil) (All)
+Rule Violations :0
+
+Processing Rule : Un-Routed Net Constraint ( (All) )
+Rule Violations :0
+
+Processing Rule : Short-Circuit Constraint (Allowed=No) (All),(All)
+   Violation between Short-Circuit Constraint: Between Pad J300-6(2737.98mil,1284.465mil) on Multi-Layer And Pad J300-6(2738mil,1260.842mil) on Top Location : [X = 5461mil][Y = 3267.349mil]
+   Violation between Short-Circuit Constraint: Between Pad J300-6(2738mil,1001mil) on Multi-Layer And Pad J300-6(2738mil,1024.622mil) on Top Location : [X = 5461mil][Y = 3008.115mil]
+Rule Violations :2
+
+Processing Rule : Power Plane Connect Rule(Relief Connect )(Expansion=20mil) (Conductor Width=10mil) (Air Gap=10mil) (Entries=4) (All)
+Rule Violations :0
+
+Processing Rule : Width Constraint (Min=4mil) (Max=100mil) (Preferred=6mil) (All)
+Rule Violations :0
+
+Processing Rule : Clearance Constraint (Gap=4mil) (All),(All)
+Rule Violations :0
+
+Processing Rule : Clearance Constraint (Gap=4mil) (InComponent('U200') OR InComponent('U201')),(All)
+Rule Violations :0
+
+Processing Rule : Silk primitive without silk layer
+Rule Violations :0
+
+Processing Rule : Clearance Constraint (Gap=5mil) (InNet('ANT_OUT')),(All)
 Rule Violations :0
 
 
 Violations Detected : 2
-Time Elapsed        : 00:00:06
+Time Elapsed        : 00:00:05
